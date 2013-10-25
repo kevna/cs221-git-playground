@@ -1,0 +1,4 @@
+CS221 git/github playground
+===========================
+> this repo exists for the purpose of experimentation with git for group 13 of the aberystwyth computer science second year group project.
+
