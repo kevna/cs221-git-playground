@@ -2,3 +2,5 @@ CS221 git/github playground
 ===========================
 > this repo exists for the purpose of experimentation with git for group 13 of the aberystwyth computer science second year group project.
 
+this file is written in a simple text-formatting language called markdown, more specifically it is parsed as [Github Flavoured Markdown][https://help.github.com/articles/github-flavored-markdown]
+
